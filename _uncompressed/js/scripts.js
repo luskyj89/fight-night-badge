@@ -1,7 +1,7 @@
 
 function init() {
 
-    $(".container").delay(8000).animate( { opacity: .35 }, 1500 );
+    $(".container").delay(8000).animate( { opacity: .25 }, 1500 );
 
 
 }
